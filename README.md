@@ -1,6 +1,5 @@
 <!-- Banner 20232A -->
 ![Banner-dark-mode](https://i.ibb.co/xqWMtZ7/Make-your-README.png)
-![Banner-light-mode-test](https://i.ibb.co/xqWMtZ7/Make-your-README.png)
 
 
 <p align="center">
