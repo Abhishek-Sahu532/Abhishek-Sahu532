@@ -1,5 +1,6 @@
 <!-- Banner 20232A -->
-![Banner-dark-mode](https://user-images.githubusercontent.com/90595158/224519176-25966d34-9593-4f48-8216-9d9ba80eb586.png#gh-dark-mode-only)
+![Banner-dark-mode](https://i.ibb.co/xqWMtZ7/Make-your-README.png)
+![Banner-light-mode-test](https://i.ibb.co/xqWMtZ7/Make-your-README.png)
 
 
 <p align="center">
